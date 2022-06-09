@@ -2,7 +2,7 @@ FROM python
 
 WORKDIR /home/learn-docker
 
-COPY ./app /home/learn-docker
+COPY ./app /home/learn-docker/app
 COPY ./LICENSE /home/learn-docker
 COPY ./requirements.txt /home/learn-docker
 
