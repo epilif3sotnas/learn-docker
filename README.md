@@ -42,9 +42,9 @@ bash Build-Docker.sh
 ```
 
 This commands should be running by an order:
-    &nbsp;&nbsp;&nbsp;1. Build docker image
-    &nbsp;&nbsp;&nbsp;2. Run the containers
-    &nbsp;&nbsp;&nbsp;3. Stop and Remove containers
+1. Build docker image
+2. Run the containers
+3. Stop and Remove containers
 
 
 # License
