@@ -16,9 +16,9 @@ In this repository was built a simple application to learn docker where the goal
 
 # Requirements (Flask app) -> requirements.txt
 
-- [flask](https://pypi.org/project/Flask)
-- [dataset](https://pypi.org/project/dataset)
-- [psycopg2](https://pypi.org/project/psycopg2)
+- [Flask](https://pypi.org/project/Flask)
+- [Dataset](https://pypi.org/project/dataset)
+- [Psycopg2](https://pypi.org/project/psycopg2)
 
 
 # Run
